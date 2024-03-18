@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HishamEltayb
-- 😀 Used to be Electrical Engineer !
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C Language in 42AbuDhabi💙
+- 😀 Studied Electrical Engineering
+- 👀 Interested in Cyber Security 
+- 💙 Currently learning C Language in 42AbuDhabi
